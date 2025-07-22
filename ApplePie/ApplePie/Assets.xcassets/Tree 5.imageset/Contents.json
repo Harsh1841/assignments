@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "Tree 5.pdf",
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "ipad"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
