@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  BMICalculator
+//  bmicalc
 //
 //  Created by Student on 14/07/25.
 //
