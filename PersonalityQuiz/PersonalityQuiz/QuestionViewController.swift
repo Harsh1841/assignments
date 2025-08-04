@@ -72,6 +72,7 @@ class QuestionViewController: UIViewController {
         nextQuestion()
     }
     
+    
     @IBAction func multipleAnswerButtonPressed(_ sender: Any) {
         let currentAnswers = questions[questionIndex].answers
         if multiSwitch1.isOn {
